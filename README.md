@@ -1,2 +1,2 @@
-# SKEBOB
-Koroshe tyt moi shtyki s ushebi
+# ITS MY TEST REPOSITORY
+# Im testing some shit here
